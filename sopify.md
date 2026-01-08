@@ -72,3 +72,90 @@ Razorpay is selected due to the following advantages:
 ### Step 3: Razorpay Integration in Shopify
 - Navigate to:
 
+
+
+
+- Select **Razorpay** as the payment provider
+- Enter Razorpay credentials:
+- Key ID
+- Key Secret
+- Activate the payment gateway
+
+**Integration Time:** Same day
+
+---
+
+### Step 4: Payment Configuration
+- Enable required payment methods in Razorpay Dashboard:
+- Cards
+- UPI
+- Net Banking
+- Enable international payments if required
+- Configure settlement and payout preferences
+
+---
+
+### Step 5: Testing
+- Use Razorpay **Test Mode**
+- Perform test transactions to validate:
+- Successful payments
+- Failed transactions
+- Refund workflow
+
+---
+
+### Step 6: Go Live
+- Switch Razorpay account to **Live Mode**
+- Monitor initial transactions
+- Verify settlements and payouts
+
+---
+
+## 6. Benefits of This Setup
+- Clean and seamless checkout experience
+- Faster and reliable settlements
+- Supports both domestic and international customers
+- Easy to scale as business grows
+- Strong compliance and reporting structure
+
+---
+
+## 7. Risks & Mitigation
+
+### Identified Risks
+- Delay in Razorpay KYC approval
+
+### Mitigation Plan
+- Initiate Razorpay onboarding early
+- Shopify-side integration can be completed immediately after approval
+
+---
+
+## 8. Estimated Timeline
+
+| Activity                         | Estimated Time        |
+|----------------------------------|-----------------------|
+| Razorpay account & KYC           | 1–3 working days      |
+| Shopify payment integration      | Same day              |
+| Testing & Go-Live                | 1 working day         |
+
+---
+
+## 9. Status
+- **Document Status:** Approved
+- **Integration Status:** To be implemented / In progress / Live
+
+---
+
+## 10. Conclusion
+Razorpay integration on a fresh Shopify store provides a reliable,
+scalable, and professional payment solution. This setup aligns with
+current business requirements and future growth plans while maintaining
+strong credibility with customers and stakeholders.
+
+---
+
+**Prepared for:** Internal Management Review  
+**Platform:** Shopify  
+**Payment Gateway:** Razorpay
+
