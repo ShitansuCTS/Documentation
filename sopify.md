@@ -6,23 +6,13 @@ Razorpay Payment Gateway Integration for a Fresh Shopify Store
 ---
 
 ## 1. Overview
-This document explains the approach, rationale, and high-level steps
-for integrating **Razorpay** as the payment gateway on a **fresh Shopify store**.
-It is intended for internal documentation and management review.
+This document explains the approach, rationale, and high-level steps small 
 
----
-
-## 2. Purpose
-- To standardize payment gateway setup for Shopify projects
-- To ensure a scalable, reliable, and investor-friendly payment solution
-- To document the integration flow for future reference and onboarding
-
----
 
 ## 3. Platform Details
 - **E-commerce Platform:** Shopify (Fresh Store)
 - **Payment Gateway:** Razorpay
-- **Primary Region:** India
+- **Primary Region:** India /International
 - **Additional Support:** International card payments
 
 ---
