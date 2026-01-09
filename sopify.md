@@ -149,9 +149,18 @@ strong credibility with customers and stakeholders.
 **Platform:** Shopify  
 **Payment Gateway:** Razorpay
 
-https://www.youtube.com/watch?v=AtgQbr91d7Y
-https://www.youtube.com/watch?v=WcjkUNVngvY
-https://www.youtube.com/watch?v=qTmyX-EaJVM
+## 📺 Redis Learning Videos
+
+Here are some helpful Redis tutorial videos:
+- **Tutorial -1**  
+  https://www.youtube.com/watch?v=AtgQbr91d7Y
+
+- **Tutorial -2**  
+  https://www.youtube.com/watch?v=WcjkUNVngvY
+
+- **Tutorial -3**  
+  https://www.youtube.com/watch?v=qTmyX-EaJVM
+
 
 
 
